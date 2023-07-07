@@ -100,7 +100,6 @@ Pipeline
 - Aplicando OOP
 - Atividado do futebool
 - Entendendo a tecnologia: Java, Selenium, Cucumber
-- Zup Automation
 - WebMotors Automation
 
 
