@@ -64,17 +64,19 @@ Pipeline
 - Vetores (Array)
 - Métodos (Funções)
 
-7- POO com Java
+#7- POO com Java
 - Herança
 - Encapsulamento
 - Polimorfismo
-# Estrutura de Dados
+
+#8- Estrutura de Dados
 - Conversão de Dados
 - Engenharia de Computação
-# Redes de Computadores
+
+ #9- Redes de Computadores
 - Curso Redes de Computadores
 
-8-  Importante Saber
+#10-  Importante Saber
 # Área de QA (Sopa de Letrinhas)
 - Agile
 - BDD
@@ -83,7 +85,7 @@ Pipeline
 - Controle de Versão
 - Pipeline
 
-9-  Terminal Linux
+#11-  Terminal Linux
 - Caminho absoluto e caminho relativo no linux
 - Navegar pelo terminal
 - Criar Pastas pelo terminal
@@ -94,7 +96,7 @@ Pipeline
 - O que é permicoes Linux?
 - Mudar permicoes pelo terminal
 
-10- POCs - Atividades
+#12- POCs - Atividades
 - Aplicando OOP
 - Atividado do futebool
 - Entendendo a tecnologia: Java, Selenium, Cucumber
