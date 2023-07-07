@@ -6,7 +6,7 @@ A conclusão das tarefas devem ocorrer nas sextas-feiras, respeitando o prazo de
 
 Abaixo segue o Backlog de em quality assurance para formar um QA nível Junior - (Mentoria)
 
-Sopa de Letrinhas
+1- Sopa de Letrinhas
 
 Área de QA
 Agile
@@ -26,8 +26,9 @@ Controle de Versao
 Pipeline
 (CI, CICD, Jenkins, GitLab)
 
-> Aprender a Testar [QA]
-# CTFL - Certified Tester Foundation Level
+2- Aprender a Testar [QA]
+
+3- CTFL - Certified Tester Foundation Level
 1 - Fundamentos do Teste
 2 - Teste Durante o Ciclo de Vida do Software
 3 - Testes estáticos
@@ -36,8 +37,9 @@ Pipeline
 6 - Ferramentas de apoio ao teste
 7 – Padrões (Normas)
 
-> Aprender a Programar [Dev]
-# Lógica de Programação
+4 Aprender a Programar [Dev]
+
+5- Lógica de Programação
 - História dos Computadores
 - Comandos de Entrada e Saída
 - Variáveis
@@ -49,7 +51,7 @@ Pipeline
 - Funções (Procedimentos)
 - Vetores (Matrizes)
 
-# Aplicação da Lógica com Java
+6- Aplicação da Lógica com Java
 - História do Java
 - Como Funciona o Java
 - Comandos de Entrada e Saída
@@ -62,7 +64,7 @@ Pipeline
 - Vetores (Array)
 - Métodos (Funções)
 
-# POO com Java
+7- POO com Java
 - Herança
 - Encapsulamento
 - Polimorfismo
@@ -72,7 +74,7 @@ Pipeline
 # Redes de Computadores
 - Curso Redes de Computadores
 
-> Importante Saber
+8-  Importante Saber
 # Área de QA (Sopa de Letrinhas)
 - Agile
 - BDD
@@ -80,7 +82,8 @@ Pipeline
 - Tests Automatizado
 - Controle de Versão
 - Pipeline
-# Terminal Linux
+
+9-  Terminal Linux
 - Caminho absoluto e caminho relativo no linux
 - Navegar pelo terminal
 - Criar Pastas pelo terminal
@@ -91,7 +94,7 @@ Pipeline
 - O que é permicoes Linux?
 - Mudar permicoes pelo terminal
 
-# POCs - Atividades
+10- POCs - Atividades
 - Aplicando OOP
 - Atividado do futebool
 - Entendendo a tecnologia: Java, Selenium, Cucumber
